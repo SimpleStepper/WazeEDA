@@ -31,5 +31,5 @@ image
    Image
    Number of Driving Days had a negative relationship with churn. User's who drove more days in the month were less likely to churn.
    Image
-## Quick Insights over project
+## Conclusion and Acknowledgement
 This project is part of Google's Advanced Data Analytics Professional Certificate Course, specifically as the end-of-course project of the "Go Beyond the Numbers: Translate Data into Insights" sub-course within the broader Google Data Analytics course. All data was provided by google, and the scenario was created with questions to answer. 
