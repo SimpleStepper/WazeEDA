@@ -46,4 +46,4 @@ Based on the current dataset, **KM per Driving Day had a positive correlation** 
 ![alt text](https://github.com/SimpleStepper/WazeEDA/blob/main/Course%202%20Project%20Images/Churn%20Rate%20Per%20Driving%20Day.png)
 
 ## Conclusion and Acknowledgement
-This project is part of Google's Advanced Data Analytics Professional Certificate Course, specifically as the end-of-course project of the "Go Beyond the Numbers: Translate Data into Insights" sub-course within the broader Google Data Analytics course. All data was provided by google, and the scenario was created with questions to answer. 
+This project is part of Google's Advanced Data Analytics Professional Certificate Course, specifically as the end-of-course project of the "Go Beyond the Numbers: Translate Data into Insights" sub-course within the broader Google Data Analytics course. All data was provided by Google, and the scenario was created with questions to answer. 
