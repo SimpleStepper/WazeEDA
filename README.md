@@ -11,6 +11,7 @@ This is the continuation of a ongoing project in Googles Advanced Data Analytics
 2. Data Cleaning
 3. Building Visualizations
 4. Evaluating and sharing results
+
 Please reference the Python notebook for more detailed analysis, however key insights are shared below. 
 ## Quick Insights over project
 
