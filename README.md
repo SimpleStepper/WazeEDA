@@ -14,7 +14,7 @@ This is the continuation of a ongoing project in Googles Advanced Data Analytics
 
 Please reference the Jupyter Notebook for more detailed analysis, however key insights are shared below. 
 ## Quick Insights over project
-*1. Was there anything that led you to believe the data was erroneous or problematic in any way?*
+### *1. Was there anything that led you to believe the data was erroneous or problematic in any way?*
 
 Most of the data was validated through the EDA process. However, many variables had very improbable outlier values, such as driven_km_drives, which had a max of 15,420 KM which is impossible to drive in a day.
 
@@ -23,19 +23,19 @@ Most of the data was validated through the EDA process. However, many variables 
 It also appears that monthly variables might have mistakes within the data. On activity_days and driving days, one has a max value of 31 days while the other has a max value of 30, which could indicate that the data was not collected within the same month.
 ![alt text](https://github.com/SimpleStepper/WazeEDA/blob/main/Course%202%20Project%20Images/Driving%20Days%20vs.%20Activity%20Days.png)
 
-*2. Did your investigation give rise to further questions that you would like to explore or ask the Waze team about?*
+### *2. Did your investigation give rise to further questions that you would like to explore or ask the Waze team about?*
 
 Yes, we need to confirm if the data for each variable was collected during the same month. Some values have 30 days, while others have 31 days. It also appears that many long-term members suddenly started using the application in the last month. Why did this occur?
 
 ![alt text](https://github.com/SimpleStepper/WazeEDA/blob/main/Course%202%20Project%20Images/Max%20driving%20days.png)
 
-*3. What percentage of users churned and what percentage were retained?*
+### *3. What percentage of users churned and what percentage were retained?*
 
 ~18% of users churned, and ~82% were retained.
 
 ![alt text](https://github.com/SimpleStepper/WazeEDA/blob/main/Course%202%20Project%20Images/Churned%20vs%20Retained.png)
   
-*4. What factors correlated with user churn? How?*
+### *4. What factors correlated with user churn? How?*
 
 Based on the current dataset, KM per Driving Day had a positive correlation with churn rate. The further a user drove had a positive relationship with churn.
 
