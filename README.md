@@ -2,7 +2,7 @@
 ## Overview 
 Waze leadership has tasked the data team with developing a machine learning model to predict user churn. This model will help improve user retention and support business growth. The team has already completed the project proposal and initial data processing. Now, the next step is to conduct **Exploratory Data Analysis (EDA)** to better understand the data and generate visual insights before model development.
 
-Please reference the [Waze EDA Project](https://github.com/SimpleStepper/WazeEDA/blob/main/Waze%20EDA%20Project.ipynb).  Jupyter Notebook for more detailed analysis, however key insights are shared below.
+Please reference the [Waze EDA Project](https://github.com/SimpleStepper/WazeEDA/blob/main/Waze%20EDA%20Project.ipynb)  Jupyter Notebook for more detailed analysis, however key insights are shared below.
 ## Current Project Overview 
 1. Data Exploration
 2. Data Cleaning
