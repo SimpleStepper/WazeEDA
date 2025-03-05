@@ -14,5 +14,11 @@ This is the continuation of a ongoing project in Googles Advanced Data Analytics
 
 Please reference the Python notebook for more detailed analysis, however key insights are shared below. 
 ## Quick Insights over project
+1. Was there anything that led you to believe the data was erroneous or problematic in any way?
+Most of the data was validated through the EDA process. However, many variables had very improbable outlier values, such as driven_km_drives, which had a max of 15,420 KM which is impossible to drive in a day.
 
+2. Did your investigation give rise to further questions that you would like to explore or ask the Waze team about?
 
+3. What percentage of users churned and what percentage were retained?
+4. What factors correlated with user churn? How?
+5. Did newer uses have greater representation in this dataset than users with longer tenure? How do you know?
